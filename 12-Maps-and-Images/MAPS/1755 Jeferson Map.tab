@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+ File "C:\Documents and Settings\C Edwin\My Documents\Genealogy\Genes\MAPS\1755 Jeferson Map.tif"
+ Type "RASTER"
+ (74.68, 23.54) (0,0)Label "TopLeft",
+ (96.72, 23.54) (2204, 0) Label "TopRight",
+ (74.68, 9.22) (0, 1432) Label "BottomLeft",
+ (96.72, 9.22) (2204, 1432) Label "BottomRight"
+ CoordSys NonEarth Units "in"
+ Units "in"
