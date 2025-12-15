@@ -1,0 +1,472 @@
+1782 Census - Surry County, Virginia 
+
+            
+
+
+            Name                                   White       Black
+            
+            Martha Adams                             3           7 
+            William Adams                            5           2 
+            William Adams                            1           5 
+            Andrew Adamson                           2           2 
+            James Alexander                          5           7 
+            John Allen                               7           -
+            William Allen Esq.                       9          83 
+            John Andrews Sr.                         3           1 
+            John Andrews                            11           7 
+            Nathaniel Andrews                        8           2 
+            William Andrews                          9           3 
+            William Anthony                          5           -
+            John Avoris                              7           5 
+            John Badgett                             3           -
+            Hannah Bagley                            3           1 
+            Anselm Bailey                            5          28 
+            Benjamin Bailey                          5          15 
+            John Bailey                              2          11 
+            Lemuel Bailey                            5          15 
+            Smauel Bailey                            6          45 
+            William Bailey                           4           3 
+            William Bailey Jr.                       5           4 
+            John Banks                               7           -
+            Faith Barham                             5           1 
+            John Barham                              6           -
+            Joseph Barham                            7           4 
+            Elizabeth Barker                         5           1 
+            Lemuel Barker                            5           3 
+            Lucy Barker                              1           1 
+            George Barlow                            4           -
+            James Barlow                             6           -
+            James Barlow                             4           4 
+            Robert Barradall                         5           3 
+            John Batts                              11           9 
+            Ann Bedingfield                          8           7 
+            Benjamin Bell                            7           4 
+            Jacob Bell                               5           -
+            Robert Bell                              7           2 
+            Silviah Bell                            10           7 
+            Stephen Bell                             6           -
+            James Belsches                           3          21 
+            Ann Bennett                              7           -
+            William Bennett                          7           3 
+            Merry Berriman                           4           -
+            Nathaniel Berriman                       8           2 
+            Benjamin Bilbro                          1           1 
+            Elizabeth Binns                          4          14 
+            Benjamin Bishop                          5           -
+            David Bishop                            10           -
+            Joshua Bishop                            6           -
+            Thomas Bland                             6           5 
+            William Blow                             2           6 
+            Benjamin Boring                          6           7 
+            Benjamin Briggs                          3           7 
+            James Brown                              7           9 
+            James Brown                             10           -
+            John Brown                               2           -
+            Richard Brown                            6          32 
+            Ann Browne                               3           -
+            Edward Browne                            6           7 
+            James Bruce                              8           -
+            James Bryant                             4           -
+            Jesse Bryant                             5           -
+            Susanna Buchanan                         1          10 
+            John Burgess                             6           7 
+            Thomas Burgess                           1          10 
+            Elizabeth Burt                           2           6 
+            Harwood Calcote                          3           4 
+            Archibald Campbell                       7          36 
+            Mary Carrell                             7           1 
+            William Carter                           8           -
+            Martha Cary                              6           2 
+            Edmund Caseley                           1           -
+            John Caseley                             2           1 
+            Michael Caseley                          5           4 
+            David Charity                            4           -
+            Henry Charity                            9           1 
+            Sarah Charity                            7           -
+            John Cheatham                            8          16 
+            Rebecca Cheatham                         2           5 
+            Etheldred Clarke                         9           -
+            James Clarke                             3          10 
+            Jesse Clarke                             6           -
+            Martha Clarke                            6           3 
+            William Clarke                           3           1 
+            William Clinch Sr.                       9          26 
+            William Clinch Jr.                       5          10 
+            Ann Cocke                                2          17 
+            Catherine Cocke                          5          15 
+            John Cocke Esq.                          6          30 
+            John Cocke                               4          10 
+            John H. Cocke                            8          27 
+            Lemuel Cocke                             4          30 
+            Richard Cocke                            8          21 
+            Thomas Cocke                             7          45 
+            William Cocke                            2          19 
+            Jesse Cocks                              4           6 
+            Mary Cocks                               5           -
+            William Cocks Jr.                        2           -
+            William Cocks                            7          17 
+            Thomas Cofer                            10           5 
+            Micajah Coggin                           8           1 
+            Benjamin Collier                         4           3 
+            John Collier                             5           7 
+            Lucy Collier                             2           2 
+            William Collins                          2          29 
+            John Coman                               2           2 
+            Frederick Cooper                         4           -
+            John Cooper                              6           2 
+            Joseph Cornwell                          4           5 
+            Carter Crafford                          6          25 
+            Henry Crafford                           9          24 
+            Mary Crafford                            1          11 
+            Nicholas Cryer                           3           2 
+            Robert Cunningham                        2           3 
+            Thomas Davidson                          6           6 
+            Dolphin Davis                            3           -
+            Francis Davis                            7           -
+            James Davis                             11           4 
+            James Davis                              1           8 
+            John Davis Sr.                           1           5 
+            Martha Davis                             8           3 
+            Thomas Davis                             4           3 
+            Thomas Davis                             9           5 
+            Anthony Degge Jr.                       11          32 
+            Anthony Degge                            6           3 
+            David Deleereaux                        11           -
+            John Deleereaux                         13           -
+            Lucy Delk                                3           2 
+            William Derring                          2           6 
+            Drury Dewell                             1           -
+            James Dewell                             6           -
+            Jesse Dewell                             1           -
+            Littleberry Dewell                       7           -
+            Mary Dewell                              2           -
+            Richard Dewell                           1           -
+            Thomas Dewell                            6           -
+            William Dicken                           2           -
+            Thomas Dowden                            1           -
+            Richard Drewry                           3           5 
+            Archibald Dunlop                         1          34 
+            Rebecca Eaton                            7          11 
+            Etheldred Edwards                        8           7 
+            Hartwell Edwards                         2           -
+            J'Anson Edwards                          7          11 
+            James Edwards                            7           2 
+            Lewis Edwards                            -           2 
+            William Edwards                         10           -
+            William Phil Edwards                     6           5 
+            Benjamin Ellis                           4           7 
+            Johnathan Ellis                          5           9 
+            Thomas Ellis                             2           1 
+            Charles Emery                            8           -
+            Howell Emery                             5           -
+            James Emery                              4           -
+            John Emery Sr.                           8           -
+            Ruth Emery                               6           1 
+            Sarah Emery                              4           -
+            William Evans                            6          21 
+            Jacob Faulcon                            8          16 
+            Nicholas Faulcon Jr.                    10          35 
+            Nicholas Faulcon Sr.                     4          17 
+            Thomas Fletcher                          2          11 
+            Richard Foster                           4           6 
+            Mary Fugler                              4           1 
+            George Gardner                           4           4 
+            Henry Gilbert                            6          10 
+            James Gilchrist                          5           7 
+            Charles Goodrich                         6           3 
+            Stephen Grantham                         6           -
+            Thomas Grantham                          5           7 
+            Henry Gray                               5           3 
+            James Gray                              10          10 
+            John Gray                                7           -
+            William Green                            4           -
+            Benjamin Gwaltney                        6           -
+            John Gwaltney                            7           -
+            Joseph Gwaltney                          4           -
+            Thomas Gwaltney                          6          17 
+            William Gwaltney                         4           -
+            William Hamlin                           5           5 
+            John Hargarave                           1           1 
+            Anselm Hargrave                          6           6 
+            Hinchea Hargrave                         4           -
+            Lucy Hargrave                            6           -
+            Robert Hargrave                          4          20 
+            Chapman Harris                           9           1 
+            James Harris                             9           1 
+            John Harrison                            4          10 
+            Nathaniel Harrison Jr.                   5          41 
+            William Harrison                         7           -
+            Thomas Harriss                           5          10 
+            William Harriss                          6          26 
+            Bramley Hart                             2           4 
+            Hartwell Hart                            5          10 
+            Joseph Hart                              4           3 
+            William Hart                             9          35 
+            James Hartwell                           8           -
+            Mary Hill                                1           3 
+            Sterling Hill                            6           4 
+            John Holdsworth                          4          16 
+            Rebecca Holdsworth                       5          11 
+            Joseph Holleman Sr.                     10          13 
+            Joseph Holleman Jr.                      4           5 
+            Jesse Holleway                           7           -
+            Job Holleway                             5           1 
+            Lazarus Holleway                        11           -
+            Archer Holt                              5           -
+            Elizabeth Holt                           6           6 
+            James Holt                               4           3 
+            Joseph Holt                              6           2 
+            Thomas Holt                              8           1 
+            William Holt                             5           2 
+            William Holt                             6          11 
+            Henry Howard Jr.                         4          13 
+            Henry Howard Sr.                         4          13 
+            Thomas Howard                            9          20 
+            Augustine Hunnicutt                      3           1 
+            Hartwell Hunnicutt                       5           -
+            John Hunnicutt                           3          15 
+            Robert Hunnicutt                         1          10 
+            John Hutchings                          11          43 
+            Patience Ingram                          6           -
+            Ann Inman                                2           5 
+            Isham Inman                              4           8 
+            Thomas J'Anson                           1          10 
+            Enos James                               6           -
+            Jeremiah James                           6           4 
+            John Jaratt                              9          12 
+            Rice Jimm                                5           2 
+            Hartwell Johnson                         6           -
+            Levy Johnson                             5           -
+            Mary Johnson                             1           1 
+            Peter Johnson Jr.                        9           -
+            Peter Johnson Sr.                        3           -
+            Thomas Johnson                           3           1 
+            Willliam Johnson                         7           1
+            Hamilton Jones (estate)                  5          18 
+            Jane Jones                               4           -
+            Nathan Jones                             5          30 
+            Ann Jordan                               3           1 
+            Ann Jordan                               4           -
+            Stephen Jordan                           7           -
+            Perry Jordon                             3           -
+            Charles Judkins                          6          25 
+            Elizabeth Judkins                        2           3 
+            Jacob Judkins                            5           2 
+            James Judkins                            4           7 
+            Jesse Judkins                            2           -
+            John Judkins                             1           1 
+            John Judkins Jr.                         8           -
+            John Judkins                             5           2 
+            Mark Judkins                             1           1
+            Martha Judkins                           6          18 
+            Mary Judkins                             6           2 
+            Samuel Judkins                           9          10 
+            William Justis                           5           6 
+            Elizabeth Justiss                        4           -
+            Charles Kee                              9           -
+            James Kee                               11          19 
+            Robert Kee                               4           1 
+            Sarah Kee                                3           2 
+            William Kee                              4           5 
+            Mary King                                3           4 
+            Randolph King                            6           2 
+            Frederick Lane                           4           6 
+            John Lane                               10           6 
+            Lucy Lane                                6           -
+            Micajah Lane                             3           1 
+            Thomas Lane                              6           4 
+            William Lane                             9           4 
+            William Laughton                         1           8 
+            Jesse Little                             6           -
+            John Little                              4           1 
+            John Little Jr.                          4           1 
+            John Little                              5           1 
+            John Logan                               4           4 
+            David Long                               3           -
+            Hartwell Long                            5           -
+            Lewis Long                               3           2 
+            John Lucas                              12          27 
+            Swann Lunsford Sr.                       5           6 
+            Swann Lunsford Jr.                       1           -
+            Robert Macintosh                         7           6 
+            Elizabeth Maddera                        5           6 
+            Elizabeth Maddera                        5           - 
+            Joanna Maddera                           1           2 
+            Joel Maddera                             4           6 
+            William Maget                            4          13 
+            John Marks                               4           5 
+            Elizabeth Marriott                       3          12 
+            William Milby                            5           2 
+            Mary Mitchell                            1           3 
+            William Mitchell                         5           1 
+            Archibald Moody                          5           2 
+            Jesse Moore                              6           -
+            Mary Moreland                            2           -
+            Christopher Moring                       1           -
+            Henry Moring Jr.                         8           9 
+            Henry Moring                             7          10 
+            John Moring                              6           5 
+            Joseph Munro                             6           -
+            William Nelson                           9          26 
+                
+                Littleberry Newsum                       4          10 
+                Thomas Newton                            8          25 
+                Andrew Nimmo                             7           2 
+                John Norsworthy                          6           4 
+                Elizabeth Parker                         2           2 
+                William Partin                           1           -
+                Mary Person                             12           4 
+                Robert Peter                             2           4 
+                Armstead Peters                         15           -
+                Thomas Peters                            5          20 
+                Peter Peterson                           8           3 
+                John Pettway                             8           2 
+                Hannah Phillips                          2           2 
+                Jeremiah Pierce                          9          24 
+                John Pitt                                8           7 
+                Thomas Pleasants                         6           -
+                Edward Porter                           10           -
+                John Presson                             8           7 
+                Toomer Presson                           6           -
+                Samuel Pretlow                           3          29 
+                Lucy Price                               4           6 
+                William Price                           10           3 
+                Lewis Pulley                             9           1 
+                Benjamin Putney                          9          12 
+                David Putney                             9           4 
+                Lewis Putney                             1          12 
+                Ann Pyland                               6           -
+                John Pyland                              1           -
+                Mary Pyland                              1           2 
+                Mary Pyland                              5           4 
+                Obediah Pyland                           4           1 
+                Robert Pyland                            8           4 
+                Thomas Pyland                            1           -
+                James Rae                                4           2 
+                William Rae                              5           3 
+                John Rhoads                              5           -
+                Benjamin Rhoads                          2           -
+                Benjamin Rigon                           4           -
+                Jesse Rigon                              8           -
+                William Rigon                           10           -
+                Robert Rispess                           8           -
+                Joseph Roberts                           8           -
+                William Rogers                           5           -
+                William Rose                             9           -
+                Richard Rowell                           6           4 
+                William Salter                           4           8 
+                Staphen Sarsby                          12          16 
+                John Saunders                            4           6 
+                Henry Savidge                            3           -
+                Joel Savidge                             4           -
+                John Savidge                             3           -
+                Michael Savidge                          3           -
+                Sarah Savidge                            7           -
+                Richard Scammell                         7          10 
+                Mary Scarbrough                          2           -
+                Nicholas Scott                           9           -
+                Nathaniel Sebrell                       10          12 
+                Britain Seward                           7           1 
+                James Seward                             3           -
+                William Coffill Seward (est.)            4          11 
+                Bundell Sharp                            4          13 
+                James Shelley                            3           1 
+                Mary Sherman                             4           -
+                William Short                            7          49 
+                Elizabeth Shuffield                      5           3 
+                Hardy Shuffield                          6           -
+                James Shuffield                          8           -
+                Jesse Shuffield                          5          11 
+                William Simmons                         10          17 
+                Thomas Simon                             6           -
+                Peyton Skipwith                          4          26 
+                William Slade                            8           -
+                Benjamin Slade                           1           -
+                John Slade                               6           -
+                Ann Sledge                               5           6 
+                John Smalley                             4           5 
+                Arthur Smelan                            4           6 
+                Benjamin Smith (for Allen Cockes est.)   3          75 
+                Henry Smith                              1           -
+                Lucy Smith                               7          10 
+                Mary Smith                               5           5 
+                Michael Smith                            5          10 
+                Nicholas Smith                           4           1 
+                William Smith                            1           5 
+                Thomas Sorsby                            5          11 
+                Benjamin Spratley                        4          10 
+                John Spratley                            1           8 
+                William Spratley                         6          19 
+                William Stephens                         5           1 
+                John Steward                             8           -
+                James Stewart                            6           -
+                William Stewart                          3           2 
+                James Taylor Jr.                         8           1 
+                James Taylor                             6           -
+                John Taylor                              7           -
+                John Thomas                              7           -
+                Ann Thompson                             3           4 
+                Joel Thompson                           10          12 
+                John Thompson                            7           3 
+                Philip Thompson                          5           6 
+                William Thompson                         7           2 
+                William Thompson                         3           -
+                Joseph Thorp                             4           5 
+                John Tillot                              5           6 
+                Jane Tucker                              4           -
+                Thomas Turner                            7           -
+                Peter Valentine                         10           -
+                John Verell                              1           -
+                Sarah Walden                             3           2 
+                Stephen Walden                           1           -
+                Aaron Wall                               4           3 
+                Thomas Wall                              6           6 
+                Benjamin Waller                          6          11 
+                William Ward for John Paradise           4          27 
+                Arthur Warren                            7           4 
+                Hannah Warren                            7          14 
+                Jesse Warren                             5          13 
+                John Warren                              6           -
+                John Warren                              8           1 
+                John Warren Jr.                          2           2 
+                John Warren Sr.                          2          10 
+                Joseph Warren                            8           3 
+                William Warren                           7           6 
+                John Watkins Sr.                         9          32 
+                Mary Wells                               3          13 
+                Thomas Wells                            11           4 
+                John Wesson                              3           5 
+                Philip West                              3          17 
+                Benjamin White                           3           2 
+                Henry White                             12           -
+                John White                               4          35 
+                Thomas White                             6          15 
+                John Wildair                             7           1 
+                Jeremiah Williams                        3           1
+                Thomas Williams                          3          17 
+                Elizabeth Wilson                         2          14 
+                John Wilson                              8           -
+                Thomas Wilson                            6           -
+                Willis Wilson                            7          36 
+                John Wrenn                              10           4 
+                Thomas Wrenn                             6           2 
+                John Wright                              2           -
+                William Wright                           1           3 
+                Hubbard Wyatts est.                      -           6   
+
+
+
+Submitted by Christine Charity <ccharity@ameritech.net>
+Christine's Genealogy Website http://ccharity.com/index.htm
+
+****************************************************************
+
+USGENWEB NOTICE:  These electronic pages may NOT be reproduced in
+any format for profit or presentation by any other organization or
+persons.  Persons or organizations desiring to use this material,
+must obtain the written consent of the contributor, or the legal
+representative of the submitter, and contact the listed USGenWeb
+archivist with proof of this consent. Files may be printed or copied
+for personal use only.
+
+****************************************************************

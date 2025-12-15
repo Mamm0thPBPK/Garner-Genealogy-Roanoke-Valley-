@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+ File "D:\Genealogy\Genes\William Garner Book\South Carolina Garners\John Garner Darlington 1820.tif"
+ Type "RASTER"
+ (36.98, 40.03) (0,0)Label "TopLeft",
+ (56.42, 40.03) (1944, 0) Label "TopRight",
+ (36.98, 27.39) (0, 1264) Label "BottomLeft",
+ (56.42, 27.39) (1944, 1264) Label "BottomRight"
+ CoordSys NonEarth Units "in"
+ Units "in"

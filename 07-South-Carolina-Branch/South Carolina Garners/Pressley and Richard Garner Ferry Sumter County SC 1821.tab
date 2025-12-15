@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+ File "D:\Genealogy\Genes\William Garner Book\Pressley and Richard Garner Ferry Sumter County SC 1821.tif"
+ Type "RASTER"
+ (11.53, 52.73) (0,0)Label "TopLeft",
+ (30.97, 52.73) (1944, 0) Label "TopRight",
+ (11.53, 40.09) (0, 1264) Label "BottomLeft",
+ (30.97, 40.09) (1944, 1264) Label "BottomRight"
+ CoordSys NonEarth Units "in"
+ Units "in"
